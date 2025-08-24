@@ -15,15 +15,18 @@ From **revenue and profit tracking → customer behavior analysis → future sal
 ## 🔍 Dashboard Previews
 
 ### Main Business KPI Dashboard
-![Dashboard Preview](dashboards/dashboard_preview.png)  
+<img src="dashboards/page_1.png" alt="Dashboard Preview" width="400"/>
+
 *An overview of revenue, sales efficiency, customer metrics, and forecasts.*
 
 ### Revenue Prediction
-![Prediction Preview](prediction_model/prediction_preview.png)  
+<img src="dashboards/page_3.png" alt="Prediction Preview" width="400"/>
+
 *Visualizing future sales trends using the Holt-Winters model.*
 
-### Geographical Performance
-![Geography Preview](dashboards/geography_preview.png)  
+### Geographical Performance 
+<img src="dashboards/page_2.png" alt="Geography Preview" width="400"/>
+
 *Revenue breakdown by country for deeper insights.*
 
 ---
@@ -87,10 +90,8 @@ Outputs: revenue trends, growth projections, and churn indicators.
 ## ⚡ How to Explore
 
 1. Open dashboards → `/dashboards/` folder.
-2. Dive into KPIs → `/kpi_definitions/` (metric documentation).
-3. Review SQL logic → `/bigquery_data_models/`.
-4. Check the raw data → `/raw_data/`.
-5. Play with forecasting → `/prediction_model/`.
+2. Review SQL logic → `/bigquery_data_models/`.
+3. Play with forecasting → `/prediction_model/`.
 
 ---
 
