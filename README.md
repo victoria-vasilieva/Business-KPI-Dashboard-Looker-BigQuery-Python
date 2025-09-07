@@ -4,7 +4,6 @@
 [![BigQuery](https://img.shields.io/badge/BigQuery-Enabled-orange?logo=googlecloud&logoColor=white)](https://cloud.google.com/bigquery)
 [![Looker](https://img.shields.io/badge/Looker-Dashboard-4BC3F6?logo=looker&logoColor=white)](https://looker.com/)
 
-# 📊 Business KPI Dashboard (Looker + BigQuery + Python)
 
 This project turns messy spreadsheets into **actionable business insights**. Using **Google BigQuery** for scalable storage, **Looker** for interactive dashboards, and a **Python forecasting model**, it delivers a complete end-to-end analytics solution.
 
