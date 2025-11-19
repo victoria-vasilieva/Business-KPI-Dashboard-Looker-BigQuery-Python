@@ -45,7 +45,7 @@ The goal of this project is simple: **turn data into decisions**.
 - **dashboards/** → 📑 PDF exports of Looker dashboards.
 - **bigquery_data_models/** → 🗂️ SQL queries for KPI prep & transformations.
 - **raw_data/** → 📊 Original spreadsheets (the messy starting point).
-- **prediction_model/** → 🐍 Python notebook (Colab) for sales forecasting.
+- **predictive model/** → 🐍 Python notebook (Colab) for sales forecasting.
 
 ---
 
@@ -78,7 +78,7 @@ Main report: **Business KPI Dashboard**
 
 ---
 
-## 🐍 Prediction Model
+## 🐍 Predictive Model
 
 The **Sales_prediction.ipynb** notebook (in `/prediction_model/`) implements a **Holt-Winters model** for sales forecasting.  
 
